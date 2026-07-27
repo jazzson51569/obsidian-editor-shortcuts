@@ -1,0 +1,23 @@
+# IDE
+*.iml
+.idea
+.vscode
+
+# npm
+node_modules
+
+# build
+main.js
+*.js.map
+
+# obsidian
+data.json
+
+# yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
