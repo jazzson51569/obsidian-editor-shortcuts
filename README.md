@@ -5,6 +5,7 @@
 
 This [Obsidian](https://obsidian.md) plugin adds keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code or Sublime Text.
 新增
+
 move cursor first（光标移到首行）
 move cursor last （光标移到末行）
 move line Up  (行上移)
